@@ -7,3 +7,13 @@ $red-color : rgb(179, 4, 4) ;
 // FONTS
 $title-font : Arial, Helvetica, sans-serif;
 $body-font : "Times New Roman", Times, serif;
+
+@mixin buttonStyle($color, $font-size) {
+    width: 200px;
+    height: 40px;
+    background-color: $color ;
+    border: none;
+    border-radius: 8px ;
+    color: $white-color;
+    font-size: $font-size;
+}

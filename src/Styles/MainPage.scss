@@ -8,4 +8,13 @@
     h1 {
         color: $red-color ;
     }
+
+    button {
+        @include buttonStyle($red-color, 35px);
+    }
 }
+
+button {
+    @include buttonStyle(purple, 35px);
+}
+

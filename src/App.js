@@ -10,6 +10,7 @@ function App() {
         <div className="App">
             <Navbar />
             <MainPage />
+            <button className="button">Click me</button>
         </div>
     </>
   );
