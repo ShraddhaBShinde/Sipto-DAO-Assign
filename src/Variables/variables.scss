@@ -3,6 +3,7 @@ $black-color : rgb(10, 10, 10);
 $grey-color : rgb(158, 152, 152);
 $white-color : rgb(255, 255, 255) ;
 $red-color : rgb(179, 4, 4) ;
+$bg-body : rgba(150, 87, 46, 0) ;
 
 // FONTS
 $title-font : Arial, Helvetica, sans-serif;
@@ -16,4 +17,8 @@ $body-font : "Times New Roman", Times, serif;
     border-radius: 8px ;
     color: $white-color;
     font-size: $font-size;
+}
+
+@mixin hoverStyle {
+    background-color: $white-color ;
 }
