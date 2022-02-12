@@ -5,10 +5,10 @@ function Footer() {
     <>
       <div class="container-fluid flex-grow-1 ">
         <div class="row py-5">
-          <div class="col-lg-12 text-white text-center">
-            <h1 class="display-3 ">Bootstrap footer</h1>
-            <p class="lead mb-0">This footer is created by using Bootstrap.</p>
-            <p class="lead py-3">Snippet by BBBootstrap.</p>
+          <div class="col-lg-12 text-black text-center">
+            <h1 class="display-3 ">Connect With Us</h1> 
+            <p class="lead mb-0">Unlimited Audience, One Place</p>
+            <p class="lead py-3">Sipto DAO.</p>
           </div>
         </div>
       </div>
