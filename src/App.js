@@ -8,9 +8,7 @@ function App() {
   return (
     <>
         <div className="App">
-            <Navbar />
-            <MainPage />
-            <button className="button">Click me</button>
+            <Navbar className="shadow-lg p-3 mb-5 bg-body rounded" />
         </div>
     </>
   );

@@ -5,7 +5,10 @@ function Navbar() {
     return (
         <>
         <div className="navbar">
-            <div className = "links">
+            <div className="logo">
+                <img src="logo.png"></img>
+            </div>
+            <div className = "links ">
                 <a href="/home">Home</a>
                 <a href="/about">About</a>
                 <a href="/services">Service</a>
