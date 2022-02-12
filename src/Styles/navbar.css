@@ -7,7 +7,7 @@
   width: 100%;
   height: 80%;
   padding: 10px;
-  background-color: rgba(119, 107, 53, 0);
+  background-color: rgba(150, 87, 46, 0);
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -30,4 +30,4 @@
 .navbar .links {
   margin-right: 20px;
 }
-/*# sourceMappingURL=navbar.css.map */
+/*# sourceMappingURL=Navbar.css.map */

@@ -3,12 +3,21 @@ import React from "react";
 // Components
 import Navbar from "./components/Navbar/navbar";
 import MainPage from "./components/MainPage/mainpage";
+import JoinNowForm from "./components/Pages/JoinNowForm";
+import OurServices from "./components/Pages/ServicesPage";
+import Testimonials from "./components/Pages/Testimonials";
+import Footer from "./components/Footer/footer"
 
 function App() {
   return (
     <>
         <div className="App">
-            <Navbar className="shadow-lg p-3 mb-5 bg-body rounded" />
+            <Navbar />
+            <MainPage />
+            <JoinNowForm />
+            <OurServices />
+            <Testimonials />
+            <Footer />
         </div>
     </>
   );

@@ -9,28 +9,4 @@
       -ms-flex-align: center;
           align-items: center;
 }
-
-.mainPage h1 {
-  color: #b30404;
-}
-
-.mainPage button {
-  width: 200px;
-  height: 40px;
-  background-color: #b30404;
-  border: none;
-  border-radius: 8px;
-  color: white;
-  font-size: 35px;
-}
-
-button {
-  width: 200px;
-  height: 40px;
-  background-color: purple;
-  border: none;
-  border-radius: 8px;
-  color: white;
-  font-size: 35px;
-}
 /*# sourceMappingURL=MainPage.css.map */

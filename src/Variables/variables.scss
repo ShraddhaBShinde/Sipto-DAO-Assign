@@ -12,7 +12,7 @@ $body-font : "Times New Roman", Times, serif;
 @mixin buttonStyle($color, $font-size) {
     width: 200px;
     height: 40px;
-    background-color: $color ;
+    background-color: $gradient(rgb(167, 125, 125));
     border: none;
     border-radius: 8px ;
     color: $white-color;
@@ -22,3 +22,4 @@ $body-font : "Times New Roman", Times, serif;
 @mixin hoverStyle {
     background-color: $white-color ;
 }
+
