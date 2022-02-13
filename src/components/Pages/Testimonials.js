@@ -4,7 +4,7 @@ function Testimonials() {
   return (
     <>
     
-    <h1 className="mt-5 align-center justify-content-center"> What Are Clients Say</h1>
+    <h1 className="mt-5 align-center justify-content-center"> What Our Clients Say</h1>
       <div class="container mt-5" background-color="#fff">
         <div class="d-flex justify-content-center py-3">
           <div class="mr-2">

@@ -1,14 +1,17 @@
 @import "../Variables/Variables.scss";
 
 .mainPage {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    // display: flex;
+    // justify-content: center;
+    // align-items: center;
 
     // button {
     //     @include buttonStyle($red-color, 35px);
     // }
-
+    
+    .button {
+        @include buttonStyle($white-color, 35px);
+    }
 }
 
 
